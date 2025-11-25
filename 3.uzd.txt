@@ -1,0 +1,11 @@
+
+
+
+
+
+
+
+
+Brīvkoda licences ir juridiski noteikumi, kas nosaka, kā drīkst izmantot, kopēt, mainīt un izplatīt programmas pirmkodu.
+GPL (General Public licences) ir populāra brīvā koda licence.
+Salīdzinājumā ar MIT, GPL ir stingrāka, tā aizsargā kopienu, nodrošinot, ka visas atvasinātās versijas paliek atvērtas, kā arī izmaiņām japaliek publiskām.
